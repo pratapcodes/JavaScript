@@ -1,3 +1,5 @@
+// jan 15
+
 // is => arrow function are treated as first class citizen
 
 // arrow function
